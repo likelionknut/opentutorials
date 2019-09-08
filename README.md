@@ -1,2 +1,4 @@
 # likelion-knut-opentutorials
-멋쟁이사자처럼 한국교통대학교 오픈튜토리얼스 강의 교안 및 참고자료
+## 한국교통대학교 멋쟁이사자처럼 7기
+오픈튜토리얼스 강의 교안 및 참고자료
+오픈튜토리얼스 : [멋쟁이사자처럼 at 한국교통대학교 7기](https://opentutorials.org/course/3663)
